@@ -6,5 +6,7 @@ These files are for CoppeliaSim v 4.3.0 realized on Jan 27, 2022
 
 The playlist of videos for 4.3.0 is here: https://www.youtube.com/playlist?list=PLc7bpbeTIk74RR8V1yCYnF5MT9KH2D98b
 
+The CoppeliaSim API is here: https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm
+
 Older playlist:
 Version 4.1.0: https://www.youtube.com/playlist?list=PLc7bpbeTIk77hTOItZGt5Fn-zIWmjAblh
